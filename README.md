@@ -8,7 +8,7 @@
 
 2. **Install the Applications**
    - Install the app on your iPhone/iPad.
-     * For the download link, please contact me: [Twitter](https://twitter.com/Taka_Yoshinaga), [LinkedIn](https://www.linkedin.com/in/tks-yoshinaga/).
+     * For the download link, please contact me: [Twitter](https://x.com/Tks_Yoshinaga), [LinkedIn](https://www.linkedin.com/in/tks-yoshinaga/).
      * A LiDAR sensor is required.
    - Download the Quest or XREAL version of the app from this repository.
    - If you are using the XREAL version, please disable Android’s battery saving mode (Settings -> Battery -> Power Saving Mode or Battery Saver).
