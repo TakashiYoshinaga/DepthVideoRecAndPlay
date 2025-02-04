@@ -17,6 +17,7 @@
 
 1. **Launch the Software**
    - Start the app for Quest or XREAL.
+     * If you use XREAL, start the app from the launcher displayed inside the glasses instead of using your smartphone.
    - Ensure that the device's IP address is displayed in front of you.
    - On Quest, the IP address can be hidden with the controller, and on XREAL, it can be hidden via the hand menu.
 
