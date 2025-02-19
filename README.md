@@ -4,7 +4,7 @@
 # Setup Instructions
 
 1. **Network Connection**
-   - Please connect your PC and iPhone to the same network.
+   - Please connect your PC and iPhone to the same network. (e.g. Same WiFi network)
 
 2. **Install the Applications**
    - Install the app on your iPhone/iPad.
